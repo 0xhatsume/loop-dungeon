@@ -1,0 +1,12 @@
+node_modules
+coverage
+coverage.json
+typechain
+
+# mud
+.pnpm-store
+
+#IDEs
+.vscode
+.vscode/
+.DS_Store
